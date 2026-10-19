@@ -1,0 +1,78 @@
+"Sandwiches","Type","Viande","Pays","Masse.g","Energie.kcal","MatGras.g","SatMatGras.g","Sucres.g","Fibres.g","Proteines.g","Sodium.mg"
+"Big.Mac","Burger","Boeuf","FR",221,510,26,10,8,3,27,880
+"Royal.Deluxe","Burger","Boeuf","FR",227,545,32,11,6,3,31,640
+"Royal.Bacon","Burger","Boeuf","FR",197,505,26,12,8,2,33,640
+"Royal.Cheese","Burger","Boeuf","FR",207,530,28,14,9,3,32,920
+"Double.Cheeseburger","Burger","Boeuf","FR",173,450,24,12,8,2,27,880
+"Hamburger","Burger","Boeuf","FR",106,255,9,4,7,2,13,520
+"Cheeseburger","Burger","Boeuf","FR",120,305,13,6,7,2,16,640
+"McChicken","Burger","Poulet pane","FR",205,475,22,3,2,3,23,720
+"Chicken.McNuggets.(4.morceaux)","Nuggets","Poulet pane","FR",72,175,9,1,0,1,11,320
+"Chicken.McNuggets.(6.morceaux)","Nuggets","Poulet pane","FR",108,270,14,2,0,1,17,480
+"Chicken.McNuggets.(9.morceaux)","Nuggets","Poulet pane","FR",162,395,20,3,0,2,25,720
+"Chicken.McNuggets.(20.morceaux)","Nuggets","Poulet pane","FR",360,895,45,6,1,5,55,1600
+"McFish","Burger","Poisson","FR",123,275,7,1,8,2,13,600
+"Filet-O-Fish","Burger","Poisson","FR",136,320,13,3,5,2,14,600
+"Croque.McDo","Croque","Jambon","FR",95,260,10,6,4,2,14,680
+"Cassecroute.Boeuf.Oignons","Burger","Boeuf","FR",247,620,32,11,5,3,26,800
+"Cassecroute.Poulet.Crudites","Burger","Poulet pane","FR",277,635,30,4,4,5,21,1200
+"Le.M","Burger","Boeuf","FR",247,595,31,12,3,3,36,1000
+"Le.M.Bacon","Burger","Boeuf","FR",253,630,34,13,3,3,38,1160
+"McWrap.Poulet.Croustillant&Bacon","Wrap","Poulet pane","FR",258,605,31,7,5,3,27,760
+"McWrap.Poulet.Croustillant.Poivre","Wrap","Poulet pane","FR",279,645,34,8,5,4,29,1000
+"Ptit.Wrap.Ranch","Wrap","Poulet pane","FR",131,320,16,3,3,2,14,400
+"Ptit.Italien","Burger","Boeuf","FR",129,350,17,7,6,2,18,400
+"Bacon Clubhouse Burger","Burger","Boeuf","US",267,720,40,15,14,3,38,1470
+"Bacon Clubhouse Grilled Chicken Sandwich","Burger","Poulet grille","US",270,590,25,8,14,4,40,1560
+"Bacon Clubhouse Crispy Chicken Sandwich","Burger","Poulet pane","US",284,750,38,10,16,4,36,1720
+"McChicken","Burger","Poulet pane","US",144,370,17,3.5,5,2,14,650
+"Buffalo Ranch McChicken","Burger","Poulet pane","US",148,370,17,3.5,5,2,14,850
+"Bacon Buffalo Ranch McChicken","Burger","Poulet pane","US",162,440,21,5,6,2,20,1120
+"Bacon Cheddar McChicken","Burger","Poulet pane","US",172,490,25,7,6,2,22,1120
+"Southern Style Crispy Chicken Sandwich","Burger","Poulet pane","US",160,430,19,3,7,2,21,910
+"Filet-O-Fish","Burger","Poisson","US",142,390,19,4,5,2,15,590
+"McRib","Burger","Boeuf","US",208,500,26,10,11,3,22,980
+"Premium McWrap SouthWest Chicken (Crispy)","Wrap","Poulet pane","US",331,670,32,8,12,5,27,1470
+"Premium McWrap SouthWest Chicken (Grilled)","Wrap","Poulet grille","US",317,510,19,6,10,5,31,1300
+"Premium McWrap SouthWest Chicken&Bacon (Crispy)","Wrap","Poulet pane","US",316,630,32,9,7,3,32,1540
+"Premium McWrap SouthWest Chicken&Bacon (Grilled)","Wrap","Poulet grille","US",302,480,19,7,6,3,36,1370
+"Premium McWrap SouthWest Chicken&Ranch (Crispy)","Wrap","Poulet pane","US",310,610,31,8,8,3,27,1340
+"Premium McWrap SouthWest Chicken&Ranch (Grilled)","Wrap","Poulet grille","US",297,450,18,6,6,3,30,1170
+"Premium McWrap Chicken Sweet Chili (Crispy)","Wrap","Poulet pane","US",304,540,23,4.5,14,3,23,1260
+"Premium McWrap Chicken Sweet Chili (Grilled)","Wrap","Poulet grille","US",291,380,10,3,12,3,27,1090
+"Chipotle BBQ Snack Wrap (Crispy)","Wrap","Poulet pane","US",130,340,15,4.5,8,1,14,780
+"Big Mac","Burger","Boeuf","US",211,530,27,10,9,3,24,960
+"Quarter Pounder with Cheese +","Burger","Boeuf","US",199,520,26,12,10,3,29,1110
+"Quarter Pounder Bacon Habanero Ranch +","Burger","Boeuf","US",233,610,31,13,10,3,36,1190
+"Quarter Pounder Bacon&Cheese +","Burger","Boeuf","US",217,600,29,13,12,3,36,1380
+"Quarter Pounder Deluxe +","Burger","Boeuf","US",238,540,27,11,9,3,28,940
+"Double Quarter Pounder with Cheese ++","Burger","Boeuf","US",277,740,42,19,10,3,47,1300
+"Hamburger","Burger","Boeuf","US",98,240,8,3,6,1,12,480
+"Cheeseburger","Burger","Boeuf","US",113,290,11,5,7,2,15,680
+"BBQ Ranch Burger","Burger","Boeuf","US",113,340,15,6,7,3,15,670
+"Grilled Onion Cheddar","Burger","Boeuf","US",113,300,13,6,6,2,15,640
+"Double Cheeseburger","Burger","Boeuf","US",161,430,21,10,7,2,24,1040
+"McDouble","Burger","Boeuf","US",147,380,17,8,7,2,22,840
+"Bacon McDouble","Burger","Boeuf","US",161,440,22,10,7,2,27,1110
+"Premium Crispy Chicken Classic Sandwich","Burger","Poulet pane","US",213,510,22,3.5,10,3,24,990
+"Premium Grilled Chicken Classic Sandwich","Burger","Poulet grille","US",200,350,9,2,8,3,28,820
+"Daily Double","Burger","Boeuf","US",190,430,22,9,7,2,22,760
+"Premium Crispy Chicken Club Sandwich","Burger","Poulet pane","US",249,670,33,9,11,3,36,1410
+"Premium Grilled Chicken Club Sandwich","Burger","Poulet grille","US",235,510,20,7,9,3,40,1250
+"Premium Crispy Chicken Ranch BLT Sandwich","Burger","Poulet pane","US",230,610,28,6,11,3,32,1400
+"Premium Grilled Chicken Ranch BLT Sandwich","Burger","Poulet grille","US",217,450,15,4.5,9,3,36,1230
+"Chipotle BBQ Snack Wrap (Grilled)","Wrap","Poulet grille","US",123,260,8,3.5,7,1,16,700
+"Honey Mustard Snack Wrap (Crispy)","Wrap","Poulet pane","US",126,340,16,4.5,5,2,14,750
+"Honey Mustard Snack Wrap (Grilled)","Wrap","Poulet grille","US",119,260,9,3.5,4,2,16,660
+"Ranch Snack Wrap (Crispy)","Wrap","Poulet pane","US",128,360,20,5,3,1,15,810
+"Ranch Snack Wrap (Grilled)","Wrap","Poulet grille","US",121,280,13,4.5,2,1,16,720
+"Mac Snack Wrap","Wrap","Boeuf","US",125,330,19,7,3,1,14,670
+"Jalapeno Double","Burger","Boeuf","US",129,430,23,9,6,2,22,1030
+"Quarter Pounder Deluxe","Burger","Boeuf","US",253,580,32,13,11,3,29,1200
+"Chicken McNuggets (10 pieces)","Nuggets","Poulet pane","US",162,470,30,5,0,2,22,900
+"Chicken McNuggets (20 pieces)","Nuggets","Poulet pane","US",323,940,59,10,0,3,44,1800
+"Chicken McNuggets (6 pieces)","Nuggets","Poulet pane","US",97,280,18,3,0,1,13,540
+"Chicken McNuggets (40 pieces)","Nuggets","Poulet pane","US",646,1880,118,20,1,6,87,3600
+"Chicken McNuggets (4 pieces)","Nuggets","Poulet pane","US",65,190,12,2,0,1,9,360
+"Premium Crispy Chicken Deluxe Sandwich","Burger","Poulet pane","US",227,530,22,4,13,3,25,1000
+"Premium Grilled Chicken Deluxe Sandwich","Burger","Poulet grille","US",213,370,9,2,11,3,29,830
